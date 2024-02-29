@@ -1,0 +1,30 @@
+{
+  "layouts": {
+    "LAYOUT": {
+      "layout": [
+        { "x": 0, "y": 0, "label": "Num Lock" },
+        { "x": 1, "y": 0, "label":        "/" },
+        { "x": 0, "y": 1, "label": "Num Lock" },
+        { "x": 1, "y": 1, "label":        "/" },
+        { "x": 2, "y": 1, "label":        "*" },
+        { "x": 3, "y": 1, "label":        "-" },
+        { "x": 0, "y": 2, "label":  "7\nHome" },
+        { "x": 1, "y": 2, "label":     "8\n↑" },
+        { "x": 2, "y": 2, "label":  "9\nPgUp" },
+        { "x": 3, "y": 2, "label":  "9\nPgUp" },
+        { "x": 0, "y": 3, "label":     "4\n←" },
+        { "x": 1, "y": 3, "label":        "5" },
+        { "x": 2, "y": 3, "label":     "6\n→" },
+        { "x": 3, "y": 3, "label":     "6\n→" },
+        { "x": 0, "y": 4, "label":   "1\nEnd" },
+        { "x": 1, "y": 4, "label":     "2\n↓" },
+        { "x": 2, "y": 4, "label":  "3\nPgDn" },
+        { "x": 3, "y": 4, "label":  "3\nPgDn" },
+        { "x": 0, "y": 5, "label":   "1\nEnd" },
+        { "x": 1, "y": 5, "label":     "2\n↓" },
+        { "x": 2, "y": 5, "label":   ".\nDel" },
+        { "x": 3, "y": 5, "label":   ".\nDel" }
+      ]
+    }
+  }
+}
