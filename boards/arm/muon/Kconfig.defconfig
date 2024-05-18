@@ -4,7 +4,7 @@
 if BOARD_MUON
 
 config ZMK_KEYBOARD_NAME
-    default "muon"
+    default "Muon v0.1"
 
 if USB_DEVICE_STACK
 
